@@ -3,7 +3,7 @@
 ## Opis projektu
 Celem tego projektu było przeprowadzenie kompleksowej analizy danych dotyczących użytkowania urządzeń smart, aby wyłonić kluczowe trendy w zakresie aktywności fizycznej i spalania kalorii. W efekcie zidentyfikowano, że wysoki poziom intensywności ćwiczeń ma największy wpływ na spalanie kalorii, co stanowi cenny insight dla optymalizacji strategii marketingowej produktu Bellabeat.
 
-## Cel biznesowy
+## Cel biznesowy (wymyślony)
 Projekt został zlecony w celu:
 - Zrozumienia, jak użytkownicy korzystają z urządzeń smart nieprodukowanych przez Bellabeat.
 - Wyłonienia trendów, które można zastosować w strategii marketingowej jednego z produktów Bellabeat.
